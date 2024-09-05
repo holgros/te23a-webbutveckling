@@ -1,0 +1,29 @@
+#div1 {
+  background-color: pink;
+  width: 50%;
+  height: 200px;
+  padding: 20px; /* avstånd från text till kant */
+  margin-top: 50px; /* avstånd till övre kant */
+  margin-left: 100px;
+}
+
+#div2 {
+  background-color: green;
+  width: 25%;
+  height: 200px;
+  margin-top: 25px; /* avstånd till närmaste element uppåt */
+  padding: 100px; /* avstånd från text till kant */
+  border-radius: 50px; /* rundade hörn */
+}
+
+#div3 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 50%; /* 50% = perfekt rundade hörn, dvs. en cirkel */
+}
+
+img {
+  width: 150px;
+  border-radius: 50%;
+}
